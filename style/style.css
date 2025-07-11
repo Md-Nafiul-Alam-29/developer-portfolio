@@ -199,3 +199,33 @@ main section{
     text-align: left;
    
 }
+
+/* resume style */
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+    text-align: left;
+    row-gap: 10px;
+}
+
+.experience{
+    height: 200px;
+}
+
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.download-resume{
+    margin-top: 50px;
+}
+
